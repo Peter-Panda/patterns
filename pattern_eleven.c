@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * pattern_eleven - Pascal pattern
+ * pattern_eleven - Pascal triangle
  * @n: number of starts
  * Return: void
 */

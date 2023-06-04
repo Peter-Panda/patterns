@@ -90,3 +90,12 @@ Pattern Solution :
           * *
            *
 
+## Pattern 11 : Pascal triangle
+
+
+           1
+          1 1
+         1 2 1
+        1 3 3 1
+
+
