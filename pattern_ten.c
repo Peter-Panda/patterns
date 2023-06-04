@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * patter_ten - diamond pattern
+ * pattern_ten - diamond pattern
  * @n: number of starts
  * Return: void
 */
 
-void patter_ten(int n)
+void pattern_ten(int n)
 {
     /*
            *
