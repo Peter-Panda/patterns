@@ -10,4 +10,7 @@ void pattern_three(int n);
 void pattern_four(int n);
 void pattern_five(int n);
 void pattern_six(int n);
+void pattern_seven(int n);
+void pattern_eight(int n);
+
 #endif
