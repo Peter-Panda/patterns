@@ -1,2 +1,10 @@
 # patterns
-contains pattern solution with C
+Pattern Solution :
+
+## Pattern 1 : Reverse rectangle
+
+        *****
+        *****
+        *****
+        *****
+        *****
