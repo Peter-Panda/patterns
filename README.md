@@ -11,7 +11,7 @@ Pattern Solution :
 
 ## Pattern 2 : right half pyramid
 
-       /*
+        *
         **
         ***
         ****
