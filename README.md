@@ -99,3 +99,12 @@ Pattern Solution :
         1 3 3 1
 
 
+## Pattern 12: Hourglass pattern
+
+	 * * * * * * * 
+	   * * * * * 
+	     * * * 
+	       * 
+	     * * * 
+	   * * * * * 
+	 * * * * * * *

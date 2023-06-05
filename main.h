@@ -15,6 +15,6 @@ void pattern_eight(int n);
 void pattern_nine(int n);
 void pattern_ten(int n);
 void pattern_eleven(int n);
-
+void pattern_twelve(int n);
 
 #endif

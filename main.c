@@ -2,6 +2,6 @@
 
 int main()
 {
-    pattern_eleven(4);
+    pattern_twelve(4);
     return (0);
 }
